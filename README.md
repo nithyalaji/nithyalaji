@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Javascript
 - 🌱 I’m currently learning Testing/QA Automation
-- 👯 I’m looking to collaborate on Salesforce, Quality Assurance
+
 
 <!--
 **nithyalaji/nithyalaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
