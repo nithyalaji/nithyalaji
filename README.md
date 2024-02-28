@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div style="text-align:center">
-<img width="200" height="200" src="Vanilla-1s-280px.gif">
+<img src="banner.gif">
 </div>
 
 
